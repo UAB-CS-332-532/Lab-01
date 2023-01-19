@@ -8,7 +8,11 @@ I, Warren Spencer, declare that I have completed this assignment completely and 
 
 Student Signature/Initials: W.S.
 
+<<<<<<< HEAD
 Date: 1/15/2023
+=======
+Date: 1/18/2023
+>>>>>>> 293917820b349fa31b06bfb97a9d32ff2f0b6441
 
 ## Assignment:
 
