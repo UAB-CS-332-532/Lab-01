@@ -4,11 +4,15 @@
 
 ## Honor Code:
 
-I, _______, declare that I have completed this assignment completely and entirely on my own, without any unathorized consultation from others or unathorized access to online websites. I have read the UAB Academic Honor Code and understand that any breach of the UAB Academic Honor Code may result in severe penalties.
+I, Warren Spencer, declare that I have completed this assignment completely and entirely on my own, without any unathorized consultation from others or unathorized access to online websites. I have read the UAB Academic Honor Code and understand that any breach of the UAB Academic Honor Code may result in severe penalties.
 
-Student Signature/Initials: ____________
+Student Signature/Initials: W.S.
 
-Date: ____________
+<<<<<<< HEAD
+Date: 1/15/2023
+=======
+Date: 1/18/2023
+>>>>>>> 293917820b349fa31b06bfb97a9d32ff2f0b6441
 
 ## Assignment:
 
